@@ -1,0 +1,7 @@
+name: choco_lint
+description: Custom lint rules for Dart and Flutter projects.
+version: 1.0.0
+repository: https://github.com/charlescyt/choco_lint
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
