@@ -1,4 +1,4 @@
-include: analisys_options.yaml
+include: analysis_options.yaml
 
 linter:
   rules:
